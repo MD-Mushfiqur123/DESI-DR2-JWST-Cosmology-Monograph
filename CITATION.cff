@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this monograph, statistical synthesis, or numerical analysis code, please cite it using the metadata below."
+type: software
+title: "The Architecture of the Cosmos: Model-Independent Constraints on the Hubble Constant and Dark Energy Equation of State from DESI DR2 BAO, Pantheon+ Supernovae, and JWST Distance-Ladder Calibrations"
+authors:
+  - family-names: "Rahim"
+    given-names: "Md. Mushfiqur"
+    orcid: "https://orcid.org/0009-0003-1021-685X"
+    affiliation: "Craftly; University of the People (USA); Govt. Azizul Haque College, Bogura"
+    website: "https://github.com/MD-Mushfiqur123"
+version: 2.0.0
+date-released: "2026-10-15"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/MD-Mushfiqur123/DESI-DR2-JWST-Cosmology-Monograph"
+keywords:
+  - "Observational Cosmology"
+  - "Hubble Tension"
+  - "Dynamical Dark Energy"
+  - "DESI DR2 BAO"
+  - "Pantheon+ Supernovae"
+  - "JWST TRGB JAGB Cepheids"
+  - "Neutrino Mass Sum"
+  - "Gaussian Process Reconstruction"
+  - "Bayesian Model Selection"
