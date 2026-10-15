@@ -9,6 +9,8 @@ authors:
     affiliation: "Craftly; University of the People (USA); Govt. Azizul Haque College, Bogura"
     website: "https://github.com/MD-Mushfiqur123"
 version: 2.0.0
+doi: "10.5281/zenodo.23383762"
+url: "https://doi.org/10.5281/zenodo.23383762"
 date-released: "2026-10-15"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/MD-Mushfiqur123/DESI-DR2-JWST-Cosmology-Monograph"

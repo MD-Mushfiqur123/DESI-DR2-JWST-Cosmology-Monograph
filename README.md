@@ -2,7 +2,10 @@
 
 **Model-Independent Constraints on the Hubble Constant and Dark Energy Equation of State from DESI DR2 BAO, Pantheon+ Supernovae, and JWST Distance-Ladder Calibrations**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23383762.svg)](https://doi.org/10.5281/zenodo.23383762)
+
 - **Author:** Md. Mushfiqur Rahim
+- **Official DOI:** [10.5281/zenodo.23383762](https://doi.org/10.5281/zenodo.23383762)
 - **ORCID iD:** [0009-0003-1021-685X](https://orcid.org/0009-0003-1021-685X)
 - **GitHub:** [@MD-Mushfiqur123](https://github.com/MD-Mushfiqur123)
 - **Affiliations:**
@@ -37,6 +40,7 @@ This 48-page research monograph synthesizes multi-probe cosmological distance me
   year      = {2026},
   month     = oct,
   publisher = {Zenodo / Open-Source Astrophysics Monograph Series},
+  doi       = {10.5281/zenodo.23383762},
   note      = {ORCID: 0009-0003-1021-685X},
   url       = {https://github.com/MD-Mushfiqur123/DESI-DR2-JWST-Cosmology-Monograph}
 }
